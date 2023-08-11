@@ -1,0 +1,1 @@
+Employee{firstname='Anna', phoneNumber='88888', age=25}
